@@ -2,7 +2,7 @@
 Project Code for MAT933
 
 ## Dataset
-Dataset was obtained from: 
+Dataset and code to calculate semi-NMF (and NMF) was obtained from: 
 https://github.com/JustinShi2016/APBC2018.
 
 (H Yu, et al., Predicting and understanding comprehensive drug-drug interactions via semi-
