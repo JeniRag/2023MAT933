@@ -2,7 +2,7 @@
 Project Code for MAT933 Report.
 
 ## Dataset
-Dataset and Matlab code to calculate semi-NMF (and NMF) was obtained from: 
+Dataset and Matlab code to calculate semi-NMF (and NMF) were obtained from: 
 https://github.com/JustinShi2016/APBC2018.
 
 (H Yu, et al., Predicting and understanding comprehensive drug-drug interactions via semi-
